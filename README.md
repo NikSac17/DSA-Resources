@@ -1,5 +1,7 @@
 Few Other Resources: 
 
+
+https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode
 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
 
 https://neetcode.io/practice
